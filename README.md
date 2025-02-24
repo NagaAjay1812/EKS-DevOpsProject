@@ -145,7 +145,7 @@ yaml
 Copy
 Edit
 image:
-  repository: <AWS_ACCOUNT_ID>.dkr.ecr.us-east-1.amazonaws.com/demo-app
+  repository: 891612571458.dkr.ecr.us-east-1.amazonaws.com/demo-app
   tag: latest
   pullPolicy: Always
 
